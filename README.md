@@ -1,4 +1,3 @@
-# engr-ALDA-fall2021-P42
 # Amazon Review Data Sentiment Analysis 
 
 ## Abstract
